@@ -6,8 +6,9 @@
 // 5. Paste the code below in the code.gs
 // 6. Update the Google Analytic View ID.
 // 7. And Run it! Data should populate in the sheet.
-// 8. Connect the sheet to Data Studio.
-// 9. Create your DAU/MAU graph & your done!
+// 8. Add a new trigger to update daily via the google script project.
+// 9. Connect the sheet to Data Studio.
+// 10. Create your DAU/MAU graph & your done!
 
 function pullData() {
   try {
